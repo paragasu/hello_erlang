@@ -1,6 +1,6 @@
 deps
 ebin
-hello_elang.d
+hello_erlang.d
 rel
 _rel
 relx
