@@ -1,0 +1,7 @@
+deps
+ebin
+hello_elang.d
+rel
+_rel
+relx
+.erlang.mk
